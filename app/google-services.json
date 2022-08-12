@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "268984306112",
+    "firebase_url": "https://tokolelang-cce75-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "tokolelang-cce75",
+    "storage_bucket": "tokolelang-cce75.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:268984306112:android:49253c05353bc98d06e025",
+        "android_client_info": {
+          "package_name": "tugas.uas.anggrdh"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "268984306112-bkt0nkjdvlrcipps84lll8rcjofml9da.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGvp1Ick3BhSGb9-EbN062RWtpvUTgIno"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "268984306112-bkt0nkjdvlrcipps84lll8rcjofml9da.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
