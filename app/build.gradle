@@ -11,7 +11,7 @@ android {
     defaultConfig {
         applicationId "tugas.uas.anggrdh"
         minSdkVersion 21
-        targetSdkVersion 30
+        targetSdkVersion 33
         versionCode 1
         versionName "1.0"
 
@@ -28,6 +28,7 @@ android {
         sourceCompatibility JavaVersion.VERSION_1_8
         targetCompatibility JavaVersion.VERSION_1_8
     }
+    namespace 'tugas.uas.anggrdh'
 }
 
 dependencies {
